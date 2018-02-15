@@ -1,13 +1,12 @@
-## /tg/station codebase
+## riftstation codebase (a /tg/station fork)
 
-[![Build Status](https://travis-ci.org/tgstation/tgstation.png)](https://travis-ci.org/tgstation/tgstation) [![Krihelimeter](https://www.krihelinator.xyz/badge/tgstation/tgstation)](https://www.krihelinator.xyz)  
-[![Percentage of issues still open](https://isitmaintained.com/badge/open/tgstation/tgstation.svg)](https://isitmaintained.com/project/tgstation/tgstation "Percentage of issues still open") [![Average time to resolve an issue](https://isitmaintained.com/badge/resolution/tgstation/tgstation.svg)](https://isitmaintained.com/project/tgstation/tgstation "Average time to resolve an issue") ![Coverage](https://img.shields.io/badge/coverage---2%25-red.svg)  
+[![Build Status](https://travis-ci.org/riftstation/riftstation.png)](https://travis-ci.org/riftstation/riftstation) [![Krihelimeter](https://www.krihelinator.xyz/badge/riftstation/riftstation)](https://www.krihelinator.xyz)  
+[![Percentage of issues still open](https://isitmaintained.com/badge/open/riftstation/riftstation.svg)](https://isitmaintained.com/project/riftstation/riftstation "Percentage of issues still open") [![Average time to resolve an issue](https://isitmaintained.com/badge/resolution/riftstation/riftstation.svg)](https://isitmaintained.com/project/riftstation/riftstation "Average time to resolve an issue") ![Coverage](https://img.shields.io/badge/coverage---2%25-red.svg)  
 [![forthebadge](https://forthebadge.com/images/badges/built-with-resentment.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/contains-technical-debt.svg)](https://forthebadge.com) [![forinfinityandbyond](https://user-images.githubusercontent.com/5211576/29499758-4efff304-85e6-11e7-8267-62919c3688a9.gif)](https://www.reddit.com/r/SS13/comments/5oplxp/what_is_the_main_problem_with_byond_as_an_engine/dclbu1a)
 
-**Website:** https://www.tgstation13.org <BR>
-**Code:** https://github.com/tgstation/tgstation <BR>
-**Wiki** https://tgstation13.org/wiki/Main_Page <BR>
-**IRC:** irc://irc.rizon.net/coderbus or if you dont have an IRC client, you can click  [here](https://kiwiirc.com/client/irc.rizon.net:6667/?&theme=cli#coderbus).<BR>
+**Website:** https://www.riftstation.com <BR>
+**Code:** https://github.com/riftstation/riftstation <BR>
+**Wiki** https://www.riftstation.com/wiki/Main_Page <BR>
 
  
 ## DOWNLOADING
